@@ -48,7 +48,7 @@ header {
   letter-spacing: 0.32px;
 }
 
-.logo {
+.site-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -80,8 +80,8 @@ address {
   font-style: normal;
 }
 
-address .address-link:hover,
-address .address-link:focus {
+.address .address-link:hover,
+.address .address-link:focus {
   color: #8e8f99;
 }
 
