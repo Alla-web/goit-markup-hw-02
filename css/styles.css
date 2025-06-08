@@ -96,7 +96,7 @@ address {
   color: inherit;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.07;
   letter-spacing: 0.04em;
   text-transform: capitalize;
 }
@@ -117,6 +117,12 @@ address {
   font-weight: 700;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.second-section-paragraph {
+  line-height: 1.5;
+  font-size: 16px;
+  letter-spacing: 0.32px;
 }
 
 /* footer styles */
