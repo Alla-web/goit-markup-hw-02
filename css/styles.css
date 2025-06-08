@@ -67,11 +67,6 @@ header {
   color: #2e2f42;
 }
 
-.first-link:hover,
-.first-link:focus {
-  color: #404bbf;
-}
-
 header a {
   color: inherit;
 }
