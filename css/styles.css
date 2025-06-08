@@ -2,6 +2,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
+  background-color: #ffffff;
 }
 
 ul {
@@ -54,10 +55,11 @@ header {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .logo-part {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 
 header > nav {
@@ -75,7 +77,7 @@ address a:focus {
 
 /* first section styles */
 .first-section {
-  height: 600px;
+  /* height: 600px; */
   background-color: #2e2f42;
   color: white;
   text-align: center;
@@ -103,16 +105,16 @@ address a:focus {
 
 /* second section styles */
 .second-section {
-  height: 344px;
+  /* height: 344px; */
 }
 
 /* footer styles */
 footer {
-  height: 312px;
+  /* height: 312px; */
   background-color: #2e2f42;
 }
 
-footer .logo {
+footer .logo-part {
   color: white;
 }
 
