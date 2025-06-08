@@ -14,13 +14,6 @@ a {
   font-style: normal;
 }
 
-h3 {
-  line-height: 1.07;
-  font-size: 20px;
-  font-weight: 500;
-  letter-spacing: 0.4px;
-}
-
 p {
   line-height: 1.5;
   font-size: 16px;
@@ -91,7 +84,7 @@ address {
   height: 56px;
   width: 169px;
   background-color: #4d5ae5;
-  border-radius: 4px;
+  /* border-radius: 4px; */
   border: none;
   color: inherit;
   font-weight: 500;
@@ -116,6 +109,8 @@ address {
   font-size: 36px;
   font-weight: 700;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
@@ -123,6 +118,41 @@ address {
   line-height: 1.5;
   font-size: 16px;
   letter-spacing: 0.32px;
+}
+
+/* third section styles */
+.third-section {
+  background-color: #f4f4fd;
+}
+
+.third-section-title {
+  line-height: 1.2;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.third-section-cads {
+  background-color: #ffffff;
+}
+
+.cards-title {
+  line-height: 1.2;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  letter-spacing: 0.4px;
+  color: #2e2f42;
+}
+
+.cards-paragraph {
+  line-height: 1.5;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* footer styles */
