@@ -64,14 +64,24 @@ header {
 
 .nav-link {
   font-weight: 500;
+  color: #2e2f42;
+}
+
+.first-link:hover,
+.first-link:focus {
+  color: #404bbf;
 }
 
 header a {
   color: inherit;
 }
 
-address a:hover,
-address a:focus {
+.address a {
+  font-style: normal;
+}
+
+.address .address-link:hover,
+.address .address-link:focus {
   color: #8e8f99;
 }
 
