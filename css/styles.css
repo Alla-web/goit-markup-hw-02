@@ -62,7 +62,7 @@ header {
   color: #2e2f42;
 }
 
-header > nav {
+.nav-link {
   font-weight: 500;
 }
 
