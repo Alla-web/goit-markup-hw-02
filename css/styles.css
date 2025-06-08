@@ -14,20 +14,6 @@ a {
   font-style: normal;
 }
 
-h1 {
-  line-height: 0.93;
-  font-size: 56px;
-  font-weight: 700;
-  letter-spacing: 1.12px;
-}
-
-h2 {
-  line-height: 1.11;
-  font-size: 36px;
-  font-weight: 700;
-  letter-spacing: 0.72px;
-}
-
 h3 {
   line-height: 1.07;
   font-size: 20px;
@@ -93,6 +79,13 @@ address {
   text-align: center;
 }
 
+.first-section-title {
+  line-height: 1.07;
+  font-size: 56px;
+  font-weight: 700;
+  letter-spacing: 1.12px;
+}
+
 .order-service-button {
   cursor: pointer;
   height: 56px;
@@ -116,6 +109,14 @@ address {
 /* second section styles */
 .second-section {
   /* height: 344px; */
+}
+
+.second-section-title {
+  line-height: 1.2;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 /* footer styles */
