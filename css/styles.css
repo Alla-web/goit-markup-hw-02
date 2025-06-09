@@ -14,12 +14,6 @@ a {
   font-style: normal;
 }
 
-p {
-  line-height: 1.5;
-  font-size: 16px;
-  letter-spacing: 0.32px;
-}
-
 /* header styles */
 header {
   line-height: 1.5;
@@ -80,7 +74,6 @@ header a {
 
 .order-service-button {
   cursor: pointer;
-  width: 169px;
   background-color: #4d5ae5;
   border: none;
   color: inherit;
