@@ -55,13 +55,13 @@ header a {
   color: inherit;
 }
 
-address {
+.address {
   font-style: normal;
 }
 
-.address .address-link:hover,
-.address .address-link:focus {
-  color: #8e8f99;
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
 }
 
 /* first section styles */
@@ -156,7 +156,7 @@ address {
 }
 
 /* fourth section styles */
-.fours-section-title {
+.fourth-section-title {
   line-height: 1.1;
   font-size: 36px;
   font-weight: 700;
