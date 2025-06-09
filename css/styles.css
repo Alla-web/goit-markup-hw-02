@@ -170,4 +170,6 @@ footer .logo-part {
 
 .footer-paragraph {
   color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
